@@ -8,7 +8,7 @@ Hint: The click function is already made for you. You just have to fill it in
 
 |Command|Definition|
 |---|---|
-|`document.getElementById(ID)`|Returns an element with the id given to it|
-|`document.querySelector()`|Returns all elements with a certain trait. Such as all elements with a certain class|
+|`document.getElementById(ID_AS_STRING)`|Returns an element with the id given to it|
+|`document.querySelector(TRAIT_AS_STRING)`|Returns all elements with a certain trait. Such as all elements with a certain class|
 |`**SOME_ELEMENT**.innerHTML`|The text within an element. This can be changed by setting it equal to something.|
 |`**SOME_INPUT_ELEMENT**.Value`|The text within an input|
