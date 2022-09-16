@@ -35,4 +35,4 @@ My CSS List
 
 Spacing Reference
 ---
-![alt text](https://github.com/nobiduke/Teaching-Alan-JS/tree/master/Reference/cssboxmodel.png?raw=true)
+![alt text](https://github.com/nobiduke/Teaching-Alan-JS/blob/master/Reference/cssboxmodel.png?raw=true)
