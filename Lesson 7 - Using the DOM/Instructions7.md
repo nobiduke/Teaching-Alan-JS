@@ -1,7 +1,10 @@
 # Using the DOM
 What is the DOM? It stands for Document Object Model, but what does that actually mean? The DOM is how JavaScript interacts with the webpage. It is an object that refers to the the entire webpage. You can use it to modify the page at runtime and create a dynamic website. You call the DOM by refering to "document".
 
-1. Look at span with `id="Target"`. Change the text value from "Cat" to "Dog" with the click of the button with `id="Button"`
+1. Look at span with `id="Target"`
+2. Change the text value from "Cat" to "Dog" with the click of the button with `id="Button"`
+
+Hint: The click function is already made for you. You just have to fill it in
 
 |Command|Definition|
 |---|---|
