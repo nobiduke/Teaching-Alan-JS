@@ -16,4 +16,4 @@ I am not good at CSS, but I can at least show the basics. Any specific questions
 
 2. Classes can then be accessed by your html when you link your CSS. There is an absolute ton that CSS can do so its really better for you to just look up what you want to do as you go. I will give a few examples in index.html. Don't worry too much about how the elements are being attached to which classes. I will go over that in the next lesson.
 
-3. Your assignment is to change the text color of any element to **<span style="color:##00FF00;">GREEN</span>**
+3. Your assignment is to change the text color of any element to **<span style="color:##00FF00;">GREEN</span>**🟩
