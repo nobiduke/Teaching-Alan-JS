@@ -8,6 +8,9 @@
 |Element|Description|
 |---|---|
 |`<head></head>`|This is where you meta information goes. This is also how you change the tab name/icon|
+|`<meta>`|Meta information such as how the browser will be viewed and decoded|
+|`<title></title>`|The tab name|
+|`<link>`| This is how your link your css. I believe it has other uses, but that is all I have ever used it for|
 |`<body></body>`|This is where the bulk of your page goes. Anything the user sees on the page is placed withing these tags|
 |`<div></div>`|This is a divider that is used to create different sections. These are used close to if not on the outside of your other elements|
 |`<span></span>`|Similar to a div, but usually used down the line more as they don't create a new line in between|
