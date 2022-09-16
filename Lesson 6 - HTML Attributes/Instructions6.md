@@ -3,7 +3,7 @@ Alright, so I haven't been completely honest so far. I have been calling the fea
 
 1. Your job is to modify index.html
 2. You are going to create an `id` for the span at the bottom and name it "Target".
-3. Lastly, you are going to click the link at the top. If the page does not jump, then you have either typed the id name wrong, or implemented the attribute wrong.
+3. Lastly, you are going to click the link at the top. If the page does not jump, then you have either typed the id name wrong, or implemented the attribute wrong. Linking to an id is done by placing "#*ID*" at the end of the hyperlink.
 
 Daily Use Attributes
 ---
