@@ -17,6 +17,8 @@
 |`<p></p>`|Paragraph, another text holder like span, but creates a new line and has additional formatting|
 |`<a href="YOUR-LINK"></a>`|Used to hyper link to some specified link. Can also link to this same page to specific element|
 |`<img src="LINK-TO-THE-IMAGE">`|Used to link an image to you page|
+|`<ul></ul>`|Unordered list|
+|`<li></li>`|List element for `<ul><ul>`|
 |`<marquee></marquee>`|Not actually too useful, but fun to look at in a raw HTML page|
 |`<br>`|Line break|
 |`<code></code>`|Formats the text to look a little different|
