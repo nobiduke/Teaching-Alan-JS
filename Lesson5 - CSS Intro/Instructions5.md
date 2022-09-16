@@ -19,3 +19,20 @@ I am not good at CSS, but I can at least show the basics. Any specific questions
 3. Your assignment is to change the text color of any element to **<span style="color:##00FF00;">GREEN</span>** 🟩
 
 **DON'T FORGET TO LINK YOUR CSS IN THE HEAD**
+
+My CSS List
+---
+|Keyword|Definition|
+|---|---|
+|`color:`|Used to change the color of what is within an element|
+|`background-color:`|Used to change the background of what is within the element|
+|`font-family:`|The text font. You can implement some basic ones or use a external one by importing it.|
+|`font-size:`|Self explanatory. Size of the font|
+|`font-weight:`|Self explanatory. Weight of the font|
+|`border:`|Used to create a border. Defined as follows `: size type color;`. Can be side specific. All side specific traits are oriented as follows `border-top:`, `border-left:`, `border-right:`, `border-bottom:`. If `border-left:` or `border-top:` is specified and its opposite is not, then it assumes the same measurement|
+|`margin:`|The spacing a round an element. Can be side specific|
+|`padding`||The spacing within an element. Can be side specific|
+
+Spacing Reference
+---
+![alt text](https://github.com/nobiduke/Teaching-Alan-JS/tree/master/Reference/cssboxmodel.png?raw=true)
