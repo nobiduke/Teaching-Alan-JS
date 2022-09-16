@@ -1,6 +1,8 @@
 # My Daily HTML Use List
 ---
 
+Daily Use Tags
+---
 |Element|Description|
 |---|---|
 |`<head></head>`|This is where you meta information goes. This is also how you change the tab name/icon|
@@ -23,3 +25,13 @@
 |`<code></code>`|Formats the text to look a little different|
 |`<section></section>`|This doesn't affect formatting, but its helpful for establish sections that you can link to later|
 |`<script></script>`|This is where your JavaScript is located. You can also link a javascript file that you have in the same directory|
+
+Daily Use Attributes
+---
+|Attribute|Definition|
+|---|---|
+|`class`|Used to link an element to a CSS class|
+|`style`|Used to directly implement CSS into your HTML|
+|`id`|An identifier for the element|
+|`href`|Used to link to a url or file|
+|`onclick`|Determines what triggers when the element is clicked. A defined JavaScript function can be placed here.|
