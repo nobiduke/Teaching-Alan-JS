@@ -1,0 +1,20 @@
+.background{
+    background-color: #C3B1E1;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.inputs{
+    border-radius: 10px;
+    background-color: #BDB5D5;
+    font-family: Arial;
+    text-align: center;
+}
+.buttons{
+    background-color: #BDB5D5;
+    border-radius: 10px;
+    border: 1px solid blueviolet;
+}
+.holder{
+    margin: auto;
+}
